@@ -1,0 +1,6 @@
+{
+  "name": "CodeCraft IDE",
+  "description": "Pro Mobile IDE with VS Code editing, live 120fps preview, interactive Figma/Photoshop visual element inspector, archive upload, and code formatting/embed/split tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
